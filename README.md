@@ -1,4 +1,4 @@
-How to submit a ticket:
+#How to submit a ticket:
 Click on “Issues”.
 Open a ticket by clicking on “New Issue”.
 
